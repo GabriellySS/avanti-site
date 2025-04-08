@@ -1,0 +1,25 @@
+* {
+    font-family: "Nunito Sans", sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.coupon-not {
+    background-color: #005CFF;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    height: 52px;
+    text-align: center;
+    padding: 2px 20px;
+}
+
+.coupon-not .value {
+    background-color: #6220C1;
+    padding: 1px 2px;
+}
+
+.coupon-not .coupon {
+    font-weight: 400;
+}
