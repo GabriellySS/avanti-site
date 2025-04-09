@@ -5,21 +5,30 @@
     padding: 0;
 }
 
-.coupon-not {
+.sale {
     background-color: #005CFF;
     color: #fff;
     font-size: 14px;
     font-weight: 700;
     height: 52px;
-    text-align: center;
     padding: 2px 20px;
 }
 
-.coupon-not .value {
+.sale .value {
     background-color: #6220C1;
     padding: 1px 2px;
 }
 
-.coupon-not .coupon {
+.sale .coupon {
     font-weight: 400;
+}
+
+.img-carrossel {
+    mix-blend-mode: darken;
+}
+
+.title-img {
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: 0%;
 }
